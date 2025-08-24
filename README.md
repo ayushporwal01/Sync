@@ -1,3 +1,2 @@
-# Sync 
-- A Progress Tracking App
+# Sync
 
